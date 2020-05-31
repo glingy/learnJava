@@ -1,4 +1,4 @@
-package speller;
+package brickbreaker;
 
 public class Main {
 
